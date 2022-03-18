@@ -7,9 +7,13 @@ This is a server application that has the function of a student records system.
 
 This application is a C# .NET Framework 4.8 and you'll need some prerequisites
 in order to run it in Visual Studio.
+
 _______________________________________
 
 
+-
+-
+-
 
 Operational Prerequisites
 __________________________
@@ -19,7 +23,13 @@ __________________________
 
 - The password of the student user must be: User_Log_In
 
-
+______________________________________________
+-
+-
+-
+-
+-
+-
 ! ! ! NOTE ! ! !
 __________________
 
