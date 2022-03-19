@@ -5,8 +5,10 @@ _______
 
 This is a server application that has the function of a student records system.
 
-This application is a C# .NET Framework 4.8 and you'll need some prerequisites
-in order to run it in Visual Studio.
+This application is a C# .NET Framework 4.8.
+The application works also with .NET 4.7.
+Versions below .NET Framework 4.7 are not guaranteed
+to work with this application.
 
 _______________________________________
 
