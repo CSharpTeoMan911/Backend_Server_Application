@@ -3,12 +3,13 @@
 About
 _______
 
-This is a server application that has the function of a student records system.
+-This is a server application that has the function of a student records system.
 
-This application is a C# .NET Framework 4.8.
-The application works also with .NET 4.7.
-Versions below .NET Framework 4.7 are not guaranteed
+-This application is a C# .NET Framework 4.8.
+-The application works also with .NET 4.7.
+-Versions below .NET Framework 4.7 are not guaranteed
 to work with this application.
+- It is recommended to use VS2019 for this application.
 
 _______________________________________
 
