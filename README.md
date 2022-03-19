@@ -39,6 +39,7 @@ __________________
 -MySQL Workbench data connection don't work in VS2020
 
 -Watch the TUTORIAL.mp4 video in order to see how to implement the server.
-
-- ! ! ! READ THE WIKI SECTION OF THE REPOSITORY FOR A DETAILED STEP BY STEP TUTORIAL ! ! ! !
+<br/>
+<br/>
+! ! ! READ THE WIKI SECTION OF THE REPOSITORY FOR A DETAILED STEP BY STEP TUTORIAL ! ! ! !
 
