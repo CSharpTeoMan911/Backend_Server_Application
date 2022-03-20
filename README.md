@@ -1,6 +1,6 @@
 # Backend_Server_Application
 
-About
+##About
 _______
 
 -This is a server application that has the function of a student records system.
@@ -21,7 +21,7 @@ _______________________________________
 <br/>
 <br/>
 
-Operational Prerequisites
+##Operational Prerequisites
 __________________________
 - MySQL Workbench
 
@@ -37,7 +37,7 @@ ______________________________________________
 <br/>
 <br/>
 <br/>
-! ! ! NOTE ! ! !
+##! ! ! NOTE ! ! !
 __________________
 <br/>
 <br/>
