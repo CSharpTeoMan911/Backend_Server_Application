@@ -13,10 +13,13 @@ to work with this application.
 
 _______________________________________
 
-
--
--
--
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Operational Prerequisites
 __________________________
@@ -27,12 +30,13 @@ __________________________
 - The password of the student user must be: User_Log_In
 
 ______________________________________________
--
--
--
--
--
--
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ! ! ! NOTE ! ! !
 __________________
 
